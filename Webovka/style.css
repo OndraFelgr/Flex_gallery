@@ -78,16 +78,16 @@ html, body {
   }
   
 
-  .text {
+  .textt {
     padding: 20px;
     text-align: center;
-    margin-top: -250px; 
+    margin-top: -10px; 
     padding-left:1%;
    
   }
   
   h1 {
-    font-size: 5em;
+    font-size: 4.5em;
     
   }
   
@@ -134,7 +134,7 @@ html, body {
     height: 100vh; 
     overflow: hidden;
   }
-  .text {
+  .textt {
     position: relative;
     z-index: 1;
     display: flex;
